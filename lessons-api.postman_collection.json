@@ -12,7 +12,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/api/lesson?search=math",
+					"raw": "http://3.15.148.102:3000/api/lesson?search=math",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -47,7 +47,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/api/order",
+					"raw": "http://3.15.148.102:3000/api/order",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -67,7 +67,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/api/order",
+					"raw": "http://3.15.148.102:3000/api/order",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -96,7 +96,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/api/lesson",
+					"raw": "http://3.15.148.102:3000/api/lesson",
 					"protocol": "http",
 					"host": [
 						"localhost"
