@@ -4,5 +4,7 @@ import App from './App.vue'
 import './assets/main.css'
 
 const app = createApp(App)
+console.log("hehehehee");
 
-app.mount('#app')
+app.mount('#app');
+
