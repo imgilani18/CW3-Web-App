@@ -22,6 +22,7 @@ export default {
   methods: {
     search(term) {
       fetchApi(`/api/lesson?search=${term || ''}`)
+
         .then(res => res.json())
         .then((items) => {
           items.forEach(item => {
