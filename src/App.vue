@@ -56,7 +56,7 @@ export default {
 <template>
   <div id="navbar">
     <h2 >
-      <router-link class="link" to="/">Home</router-link>
+      <a class="link" href="/">Home</a>
     </h2>
     <div>
       <div @click="page='cart'" v-if="cart.length" class="link">
